@@ -1,12 +1,12 @@
 # Bubble Particles
 
-Primeiramente faça a importação
+Primeiramente faça a importação:
 
 ```js
 import { bubbleParticles } from "./particles";
 ```
 
-Depois use:
+Depois chame a função:
 
 ```js
 useEffect(() => {
@@ -27,7 +27,7 @@ useEffect(() => {
 
 #### Métodos
 
-`.start()` Inícia a animação.
-`.play()` Retorma a animação caso foi pausada.
-`.pause()` Pausa a animação.
-`.remove()` Remove toda a animação do contexto
+`.start()` Inícia a animação. <br />
+`.play()` Retorma a animação caso foi pausada. <br />
+`.pause()` Pausa a animação. <br />
+`.remove()` Remove toda a animação do contexto. <br />
