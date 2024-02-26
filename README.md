@@ -25,7 +25,7 @@ useEffect(() => {
 }, []);
 ```
 
-####Métodos
+#### Métodos
 
 `.start()` Inícia a animação.
 `.play()` Retorma a animação caso foi pausada.
